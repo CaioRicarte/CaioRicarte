@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaioRicarte
 - 👀 I’m interested in new challenges.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on every project that i can.
 - 📫 You can reach me on Linkedin. [Caio Ricarte](https://www.linkedin.com/in/caio-ricarte-c13012001/)
 
